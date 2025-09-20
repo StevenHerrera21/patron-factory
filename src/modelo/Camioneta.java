@@ -7,6 +7,7 @@ public class Camioneta extends Vehiculo {
     public double calcularCostoMatricula() {
         double base = 200.0;
         double costo_variable = 100;
+        System.out.println("Tracciib "+traccion);
         if (traccion == "4x4") {
             costo_variable = 250;
         }
