@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="vehiculos_factory_nb_diagram" default="default" basedir=".">
+    <description>Proyecto basado en diagrama - Factory Pattern</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
